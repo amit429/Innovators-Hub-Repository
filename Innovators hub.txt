@@ -17,8 +17,18 @@ howInnovatorsHelpedMe
 Good exposure, fun people :)
 
 =======
-Suvarna Bhide
+2.Suvarna Bhide
 
 
-Name: Kunal Tilaganji
+3.Name: Kunal Tilaganji
 Branch : ECE
+
+<<<<<<< HEAD
+4.Tushar Mittal
+
+howInnovatorsHelpedMe
+Good exposure, fun people :)
+
+=======
+Tushar Mittal
+>>>>>>> 993edb1d82e95e8b67dec7a0611916c10e7f4e4e
